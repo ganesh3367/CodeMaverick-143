@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI development, web technologies, and open-source projects.
 - 🌱 I’m currently learning deep learning, advanced JavaScript frameworks, and cloud computing.
 - 💞️ I’m looking to collaborate on AI-powered applications, innovative web platforms, and automation tools.
-- 📫 How to reach me via email at arpitsarang2020@gmail.com or on LinkedIn.
+- 📫 How to reach me via email at arpit.01.sarang.2005@gmail.com or on LinkedIn Arpit Sarang.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a game bot that can solve Sudoku puzzles in under 10 seconds!
 
