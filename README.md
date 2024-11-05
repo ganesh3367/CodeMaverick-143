@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once built a game bot that can solve Sudoku puzzles in under 10 seconds!
 
+[![An image of @codemaverick143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codemaverick143)](https://holopin.io/@codemaverick143)
 <!---
 CodeMaverick-143/CodeMaverick-143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
