@@ -31,11 +31,11 @@
 ## 📅 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeMaverick-143&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeMaverick-143&show_icons=true&count_private=true&include_all_commits=true)
 
-![GitHub Contributions](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPOSITORY)
+![GitHub Contributions](https://img.shields.io/github/contributors/CodeMaverick-143/YOUR_REPOSITORY)
 
-[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=default)](https://github.com/YOUR_USERNAME)
+[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeMaverick-143&theme=default(https://github.com/CodeMaverick-143)
 
 
 <!---
