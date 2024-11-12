@@ -21,8 +21,7 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in leverag
 ## 📫 How to Reach Me
 - **Email**: [arpit.01.sarang.2005@gmail.com](mailto:arpit.01.sarang.2005@gmail.com)
 - **LinkedIn**: [Arpit Sarang](https://www.linkedin.com/in/arpit-sarang-2005)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) (replace with your actual Twitter handle)
-- **Personal Website**: [YourWebsite.com](https://YourWebsite.com) (replace with your actual website)
+- **Twitter**: [@YourTwitterHandle](https://x.com/ByteWise_01)
 
 ## 😄 Pronouns: He/Him
 
