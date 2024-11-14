@@ -47,6 +47,7 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in leverag
 ## 📅 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeMaverick-143&theme=radical)
 
+
 ---
 
 Feel free to explore my repositories and connect with me! Let's build something amazing together! 🚀
