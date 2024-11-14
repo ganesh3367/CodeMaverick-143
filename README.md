@@ -2,6 +2,9 @@
 
 Welcome to my GitHub! I'm a passionate developer with a keen interest in leveraging technology to create innovative solutions. 
 
+## 🏅 Holopin Badges
+[![An image of @codemaverick143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codemaverick143)](https://holopin.io/@codemaverick143)
+
 ## 👀 Interests
 - **AI Development**: Exploring the frontiers of artificial intelligence.
 - **Web Technologies**: Crafting responsive and dynamic web applications.
@@ -27,9 +30,6 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in leverag
 
 ## ⚡ Fun Fact
 - I once built a **game bot** that can solve **Sudoku puzzles** in under 10 seconds! 🚀
-
-## 🏅 Holopin Badges
-[![An image of @codemaverick143's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codemaverick143)](https://holopin.io/@codemaverick143)
 
 ## 🛠️ Skills & Technologies
 - **Languages**: Python, JavaScript, HTML, CSS, C++, MySql
