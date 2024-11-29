@@ -47,6 +47,23 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in leverag
 ## 📅 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeMaverick-143&theme=radical)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeMaverick-143&bg_color=0d1117&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/CodeMaverick-143/github-readme-activity-graph)
+
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeMaverick-143&theme=aura" alt="Repos per Language" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeMaverick-143&theme=aura" alt="Most Commit Language" width="45%" />
+</div>
+
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeMaverick-143&theme=aura" alt="GitHub Stats" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeMaverick-143&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaverick-143&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=CodeMaverick-143&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
 
 ---
 
