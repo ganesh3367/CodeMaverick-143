@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in leverag
 
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeMaverick-143&theme=aura" alt="Repos per Language" width="45%" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeMaverick-143&theme=aura" alt="Most Commit Language" width="45%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeMaverick-143&theme=aura" alt="Most Commit Language" width="45%"/>
 </div>
 
 <div align="center">
@@ -65,6 +65,6 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in leverag
 </div>
 
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Feel free to explore my repositories and connect with me! Let's build something amazing together! 🚀
