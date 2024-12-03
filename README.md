@@ -52,6 +52,9 @@ I built a **game bot** that cracks Sudoku puzzles in under **10 seconds**! 🧩
 - **Cloud Platforms**: AWS, Azure, Google Cloud  
 
 ---
+## 🏆 GitHub Trophies
+
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=CodeMaverick-143&theme=darkhub)
 
 ## 📊 GitHub Stats  
 
