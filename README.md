@@ -25,19 +25,6 @@ Hi there! I'm a passionate developer turning ideas into cutting-edge solutions. 
 
 ---
 
-## 🎮 GitHub Games  
-### 🐍 Snake Game  
-Watch the snake consume your contributions!  
-
-![GitHub Snake](https://raw.githubusercontent.com/CodeMaverick-143/CodeMaverick-143/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)  
-
-### 🏓 Pong Game  
-Control the paddle and play Pong right here!  
-
-[![Play Pong](https://img.shields.io/badge/Play_Pong-Click_Here-blue?style=for-the-badge)](https://github.com/CodeMaverick-143/github-games)
-
----
-
 ## 🤝 Let’s Collaborate!  
 I'm open to teaming up on:  
 - 🧠 **AI-driven projects** with real-world impact.  
