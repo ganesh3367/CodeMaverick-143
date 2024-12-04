@@ -4,12 +4,12 @@
 
 Hi there! I'm a passionate developer turning ideas into cutting-edge solutions. Let's explore, build, and innovate together!
 
----
+------------------------------------------------------------------------
 
 ## 🏅 Holopin Badges  
 [![Check out my Holopin profile!](https://holopin.me/codemaverick143)](https://holopin.io/@codemaverick143)
 
----
+------------------------------------------------------------------------
 
 ## 🌟 Interests  
 - **AI Development**: Pushing the boundaries of artificial intelligence.  
